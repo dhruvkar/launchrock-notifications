@@ -1,4 +1,4 @@
-#Launchrock Signup Notifications over SMS
+##Launchrock Signup Notifications over SMS
 
 This script sends an SMS containing any email addresses that signed up on your Launchrock landing page.
 
