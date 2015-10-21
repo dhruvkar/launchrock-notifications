@@ -1,4 +1,6 @@
-Sends an SMS with any email addresses that signed up on your Launchrock landing page
+#Launchrock Signup Notifications over SMS
+
+This script sends an SMS containing any email addresses that signed up on your Launchrock landing page.
 
 To run:
  1. git clone https://github.com/dhruvkar/launchrock-notifications.git
@@ -11,4 +13,4 @@ To run:
 
 This will create a signups.txt file with emails that have already signed up. It will also text you with all those email addresses the first time.
 
-![Launchrock export link](/launchrock-notifications/launchrock_export.png)
+![Launchrock export link](https://raw.githubusercontent.com/dhruvkar/launchrock-notifications/master/launchrock_export.png)
